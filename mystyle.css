@@ -1,0 +1,13 @@
+section {
+  width: 29%;
+  float: left;
+  margin: 2% 2%;
+  text-align: center;
+  border-style: solid;
+}
+.clear {
+  clear: both;
+}
+img {
+  max-width: 100%;
+}
